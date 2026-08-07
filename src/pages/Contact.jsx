@@ -32,8 +32,8 @@ const Contact = () => {
   return (
     <div className="pt-28 pb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-12 font-sans">
       <Helmet>
-        <title>Contact & Showroom Location | Optic World Delhi</title>
-        <meta name="description" content="Visit our Delhi Connaught Place showroom, call us at +91 78800 09292, or send a WhatsApp message to consult our lead optician and fragrance compounders." />
+        <title>Contact & Showroom Location | Optic World Ludhiana</title>
+        <meta name="description" content="Visit our Ludhiana Ferozepur Road showroom, call us at +91 78800 09292, or send a WhatsApp message to consult our lead optician and fragrance compounders." />
       </Helmet>
 
       <Breadcrumb items={breadcrumbItems} />
@@ -134,7 +134,7 @@ const Contact = () => {
           <div className="w-full h-64 rounded-3xl overflow-hidden shadow-sm border border-gray-200 dark:border-gray-800">
             <iframe
               title="Showroom Location Map"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14008.272186835165!2d77.206584!3d28.627702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd37b6000001%3A0x7d028ef78b31a89c!2sConnaught+Place%2C+New+Delhi%2C+Delhi%2C+India!5e0!3m2!1sen!2sus!4v1542104085461"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3424.084700778792!2d75.8021677!3d30.8842603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a824e4d77759d%3A0xb35a4d33454746f3!2sFerozepur%20Rd%2C%20Ludhiana%2C%20Punjab!5e0!3m2!1sen!2sin!4v1700000000000"
               className="w-full h-full border-0 grayscale dark:invert"
               allowFullScreen=""
               loading="lazy"

@@ -37,9 +37,9 @@ const Home = () => {
     "priceRange": "₹₹₹",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "Connaught Place",
-      "addressLocality": "New Delhi",
-      "addressRegion": "Delhi",
+      "streetAddress": "Ferozepur Road",
+      "addressLocality": "Ludhiana",
+      "addressRegion": "Punjab",
       "postalCode": "110001",
       "addressCountry": "IN"
     },
@@ -99,8 +99,8 @@ const Home = () => {
   return (
     <div className="space-y-16 sm:space-y-24 pb-16">
       <Helmet>
-        <title>Optic World | Premium Eyewear & Fragrance Boutique Delhi</title>
-        <meta name="description" content="Welcome to Optic World, a premium optical showroom & MEHAKAANA fragrance bar in Delhi. Sourcing Ray-Ban, Oakley eyewear & custom perfumes since 2011." />
+        <title>Optic World | Premium Eyewear & Fragrance Boutique Ludhiana</title>
+        <meta name="description" content="Welcome to Optic World, a premium optical showroom & MEHAKAANA fragrance bar in Ludhiana. Sourcing Ray-Ban, Oakley eyewear & custom perfumes since 2011." />
         <script type="application/ld+json">
           {JSON.stringify(localBusinessSchema)}
         </script>
@@ -588,7 +588,7 @@ const Home = () => {
       <section className="w-full h-96 relative border-t-2 border-premium-gold/20">
         <iframe
           title="Optic World Location Map"
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14008.272186835165!2d77.206584!3d28.627702!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfd37b6000001%3A0x7d028ef78b31a89c!2sConnaught+Place%2C+New+Delhi%2C+Delhi%2C+India!5e0!3m2!1sen!2sus!4v1542104085461"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3424.084700778792!2d75.8021677!3d30.8842603!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391a824e4d77759d%3A0xb35a4d33454746f3!2sFerozepur%20Rd%2C%20Ludhiana%2C%20Punjab!5e0!3m2!1sen!2sin!4v1700000000000"
           className="w-full h-full border-0 grayscale dark:invert"
           allowFullScreen=""
           loading="lazy"

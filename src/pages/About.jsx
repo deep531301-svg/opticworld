@@ -11,7 +11,7 @@ const About = () => {
     <div className="pt-28 pb-16 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 space-y-16">
       <Helmet>
         <title>About Us & Our Founders | Optic World & MEHAKAANA</title>
-        <meta name="description" content="Discover the story of Optic World and MEHAKAANA, Delhi's luxury optical showroom and bespoke perfumery founded by Harvinder Singh and Jaspreet Singh." />
+        <meta name="description" content="Discover the story of Optic World and MEHAKAANA, Ludhiana's luxury optical showroom and bespoke perfumery founded by Harvinder Singh and Jaspreet Singh." />
       </Helmet>
 
       <Breadcrumb items={breadcrumbItems} />

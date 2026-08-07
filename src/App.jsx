@@ -71,8 +71,8 @@ function App() {
             {/* Global SEO Settings */}
             <Helmet>
               <title>Optic World | Premium Eyewear & Fragrance Boutique</title>
-              <meta name="description" content="Optic World is a luxury optical showroom and fragrance boutique in Delhi. Sourcing designer sunglasses, prescription glasses, pure Cambodian oud Attar, and premium perfumes." />
-              <meta name="keywords" content="optical shop, sunglasses showroom, prescription glasses, contact lenses, imported attar, oud oil, designer perfumes, Connaught Place" />
+              <meta name="description" content="Optic World is a luxury optical showroom and fragrance boutique in Ludhiana. Sourcing designer sunglasses, prescription glasses, pure Cambodian oud Attar, and premium perfumes." />
+              <meta name="keywords" content="optical shop, sunglasses showroom, prescription glasses, contact lenses, imported attar, oud oil, designer perfumes, Ferozepur Road" />
               <html lang="en" />
             </Helmet>
 

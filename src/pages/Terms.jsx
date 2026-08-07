@@ -46,7 +46,7 @@ const Terms = () => {
               <span>1. Retail Orders & WhatsApp Booking</span>
             </h2>
             <p className="text-xs text-gray-600 dark:text-gray-400 leading-relaxed">
-              Our website serves as an interactive catalog and order assembly platform. Clicking "Send Order to WhatsApp" compiles your selection (eyewear specs, custom Attar fragrance formulas) and forwards it to our Connaught Place showroom sales hotline (**+91 7880009292**).
+              Our website serves as an interactive catalog and order assembly platform. Clicking "Send Order to WhatsApp" compiles your selection (eyewear specs, custom Attar fragrance formulas) and forwards it to our Ludhiana showroom sales hotline (**+91 7880009292**).
             </p>
             <ul className="space-y-2 pl-2 text-xs text-gray-600 dark:text-gray-400">
               <li className="flex items-start space-x-2">

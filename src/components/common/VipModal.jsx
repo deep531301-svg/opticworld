@@ -270,7 +270,7 @@ const VipModal = ({ isOpen, onClose }) => {
 
                 {/* Explanation text */}
                 <p className="text-xs text-gray-400 leading-relaxed max-w-sm mx-auto">
-                  🎉 Welcome to the club! Take a screenshot of this digital card. Present it at the Connaught Place store to receive priority services and claim your cashbacks.
+                  🎉 Welcome to the club! Take a screenshot of this digital card. Present it at the Ludhiana store to receive priority services and claim your cashbacks.
                 </p>
 
                 {/* Actions */}

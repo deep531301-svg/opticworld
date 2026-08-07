@@ -101,8 +101,8 @@ const Footer = () => {
               <li className="flex items-start space-x-3">
                 <FiMapPin className="text-premium-gold w-5 h-5 shrink-0 mt-0.5" />
                 <span className="text-gray-400">
-                  123 Luxury Avenue, Sector 5,<br />
-                  Premium Retail Hub, Delhi 110001
+                  Plot 45, Luxury Arcade, Ferozepur Road,<br />
+                  Opposite Westend Mall, Ludhiana 141012
                 </span>
               </li>
               <li className="flex items-center space-x-3">
